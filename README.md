@@ -50,3 +50,13 @@ git push
 ```
 git clone https://github.com/sunnysavita10/document_portal
 ```
+### Minimum requirement for this project
+Using these we will create a RAG pipeline.
+
+1. LLM Model ## you can load it from groq(free), openai(paid), gemini(15 days free), claude(paid), huggingface(free), ollama (local setup, you need good configuration)
+
+2. Embedding model ## openai, hf, gemini
+
+3. Vectordatabase ## inmemory  ## ondisk ## cloudbased (aws bedrock)
+
+

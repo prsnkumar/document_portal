@@ -65,3 +65,16 @@ For deployment we use AWS, not .env
 
 ### .env to store the key values - Environment variables
 it is in .gitignore, we will store confidential informations, cannot be shared.
+
+
+### PIP commands
+``` to install the document_portal to current env
+pip install -e .
+
+pip list
+
+
+### setup.py
+Using setup.py we can convert our project document_portal to package.
+PYPI is a repository. we can publish a package to it.
+

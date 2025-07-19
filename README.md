@@ -69,12 +69,39 @@ it is in .gitignore, we will store confidential informations, cannot be shared.
 
 ### PIP commands
 ``` to install the document_portal to current env
-pip install -e .
+pip install -e .  ## to install the package 
 
 pip list
 
+pip install ipykernel
+
+pip install -r requirements.txt
+
+```
 
 ### setup.py
 Using setup.py we can convert our project document_portal to package.
 PYPI is a repository. we can publish a package to it.
 
+
+### GROQ API KEY
+Link : https://console.groq.com/keys
+Groq models : https://console.groq.com/docs/models#production-models
+
+### GEMINI API KEY
+https://aistudio.google.com/apikey
+
+Gemini Models : https://ai.google.dev/gemini-api/docs/models
+
+
+
+## Agenda of tomorrows session
+1. Understand the usecase in better way
+2. Perform all the required experiment in Notebook
+3. Setup logging and exception.
+4. Config and Utils
+
+
+
+### next week onwards we will start
+1. Modular Coding

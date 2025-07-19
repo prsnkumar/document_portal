@@ -60,3 +60,8 @@ Using these we will create a RAG pipeline.
 3. Vectordatabase ## inmemory  ## ondisk ## cloudbased (aws bedrock)
 
 
+### AWS secret manager - secret vault, similar to Azure keybolt
+For deployment we use AWS, not .env
+
+### .env to store the key values - Environment variables
+it is in .gitignore, we will store confidential informations, cannot be shared.

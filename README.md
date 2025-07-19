@@ -1,6 +1,6 @@
 ## Commands needs to follow
 
-## below command is for windows(CMD)
+## Below command is for windows(CMD)
 
 ```
 mkdir <project_folder_name>
@@ -14,7 +14,7 @@ cd <project_folder_name>
 code .
 ```
 
-## for conda env setup
+## This is for conda env setup
 
 ```
 conda create -p <env_name> python=3.10 -y

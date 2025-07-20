@@ -105,3 +105,8 @@ Gemini Models : https://ai.google.dev/gemini-api/docs/models
 
 ### next week onwards we will start
 1. Modular Coding
+
+
+### GIT hub links
+https://github.com/prsnkumar/document_portal
+https://github.com/sunnysavita10/document_portal
